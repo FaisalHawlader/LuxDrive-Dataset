@@ -1,6 +1,6 @@
 # LuxDrive-Dataset
 
-Welcome to the Luxembourg driving dataset (LuxDrive-Dataset) repository, a fundamental resource designed to support research in the perception of autonomous driving environments. This dataset is a crucial tool for validating and benchmarking innovative research concepts in the field of autonomous driving, leveraging vehicle-to-everything (V2X) communication. It can be used for various purposes in the domain of computer vision to computer networking.
+Welcome to the Luxembourg driving dataset (LuxDrive-Dataset) repository, a fundamental resource designed to support research on perception in autonomous driving environments. This dataset serves as a crucial tool for validating and benchmarking innovative research concepts in autonomous driving, utilizing vehicle-to-everything (V2X) communication. It can be utilized for various purposes spanning computer vision to computer networking.
 
 ## Publication
 For a comprehensive understanding of the dataset and its applications, we recommend referring to our research paper " **Cooperative Perception using V2X Communications: An Experimental Study**":
