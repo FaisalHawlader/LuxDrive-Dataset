@@ -21,7 +21,7 @@ If you use this dataset in your research, please use the following citation:
 }
 ```
 ## Dataset Overview
-- Synthetic dataset using the [CARLA](https://carla.org/) simulator (Open-source simulator for autonomous driving research).
+- Real-world driving dataset captured using a front-facing camera sensor mounted on the rooftop of an autonomous vehicle developed by 360lab, a research group at the University of Luxembourg. The dataset was created while driving around JFK Avenue in Kirchberg, Luxembourg City. 
 - The dataset contains 2k camera frames and ground truth bounding box annotations for three classes:
   - **vehicles (bus, car), pedestrians, and traffic lights**
 - Split into three subsets:
@@ -32,17 +32,17 @@ If you use this dataset in your research, please use the following citation:
 LuxDrive Dataset (format):
     - Train
         - images
-          - .*.bmp
+          - *.bmp
         - labels
           - *.txt
     - Test
         - images
-          - .*.bmp
+          - *.bmp
         - labels
           - *.txt
     - Validation
         - images
-          - .*.bmp
+          - *.bmp
         - labels
           - *.txt
 ```
