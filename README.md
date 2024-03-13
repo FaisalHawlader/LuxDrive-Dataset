@@ -10,7 +10,7 @@ For a comprehensive understanding of the dataset and its applications, we recomm
 If you use this dataset in your research, please use the following citation:
 
 ```text
-@article{hawlader2024leveraging,
+@article{hawlader2024,
   title={Cooperative Perception using V2X Communications: An Experimental Study},
   author={Hawlader, Faisal and Robinet, Fran{\c{c}}ois and Frank, Rapha{\"e}l},
   journal={---},
