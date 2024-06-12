@@ -22,12 +22,12 @@ If you use this dataset in your research, please use the following citation:
 ```
 ## Dataset Overview
 - Real-world driving dataset captured using a front-facing camera sensor mounted on the rooftop of an autonomous vehicle developed by 360lab, a research group at the University of Luxembourg. The dataset was created while driving around JFK Avenue in Kirchberg, Luxembourg City. 
-- The dataset contains 2k camera frames and ground truth bounding box annotations for three classes:
+- The dataset contains 5k camera frames and ground truth bounding box annotations for three classes:
   - **vehicles (bus, car), pedestrians, and traffic lights**
 - Split into three subsets:
-    - Training (1k images)
-    - Validation (0.5k images)
-    - and Testing (0.5k images)
+    - Training (3500 images)
+    - Validation (750 images)
+    - and Testing (750 images)
 ```text
 LuxDrive Dataset (format):
     - Train
@@ -51,7 +51,7 @@ LuxDrive Dataset (format):
 
 
 ## Downloads
-To access the complete dataset, please use the following link:
+To access the sample dataset (the complete dataset will be shared in the final version of the paper), please use the following link:
 - [Download the Dataset (15 GB)](https://uniluxembourg-my.sharepoint.com/:f:/g/personal/faisal_hawlader_uni_lu/EtgbAapM4zlHi8M9PD4eHesBgKmuf9nr3jSDB6NIX9G17Q?e=iYGFt9).
 
 If you encounter any issues or have questions, please feel free to get in touch by sending an email to faisal.hawlader@uni.lu. We'll be happy to assist you!
