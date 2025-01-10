@@ -11,14 +11,16 @@ If you use this dataset in your research, please use the following citation:
 
 ```text
 @article{hawlader2024,
-  title={Cooperative Perception using V2X Communications: An Experimental Study},
-  author={Hawlader, Faisal and Robinet, Fran{\c{c}}ois and Frank, Rapha{\"e}l},
-  journal={---},
-  volume={--},
-  pages={--},
-  year={},
-  publisher={---}
-}
+  author={Hawlader, Faisal and Robinet, François and Frank, Raphaël},
+  booktitle={2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall)}, 
+  title={Cooperative Perception Using V2X Communications: An Experimental Study}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={Vehicular and wireless technologies;Image coding;Ecosystems;Object detection;Cameras;Real-time systems;Hardware;Communications technology;Delays;Testing;Cloud Computing;Distributed Perception;C-V2X;ITS-G5;Object Detection;CPM},
+  doi={10.1109/VTC2024-Fall63153.2024.10757448}}
+
 ```
 ## Dataset Overview
 - Real-world driving dataset captured using a front-facing camera sensor mounted on the rooftop of an autonomous vehicle developed by 360lab, a research group at the University of Luxembourg. The dataset was created while driving around JFK Avenue in Kirchberg, Luxembourg City. 
