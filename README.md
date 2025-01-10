@@ -54,7 +54,7 @@ LuxDrive Dataset (format):
 
 ## Downloads
 To access the sample dataset (the complete dataset will be shared in the final version of the paper), please use the following link:
-- [Download the Dataset (15 GB)](https://uniluxembourg-my.sharepoint.com/:f:/g/personal/faisal_hawlader_uni_lu/EtgbAapM4zlHi8M9PD4eHesBgKmuf9nr3jSDB6NIX9G17Q?e=iYGFt9).
+- [Download the Dataset (15 GB)](https://doi.org/10.5281/zenodo.14523854).
 
 If you encounter any issues or have questions, please feel free to get in touch by sending an email to faisal.hawlader@uni.lu. We'll be happy to assist you!
 ## Acknowledments
